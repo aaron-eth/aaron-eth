@@ -1,7 +1,7 @@
 # Hi 👋 !
 ## I am Aaron Chang
-👀 I’m interested in reading diving and exploring web3
-📫 You can reach me by mailing to ysjhs00189@gmail.com
+👀 I’m interested in reading diving and exploring web3<br>
+📫 You can reach me by mailing to ysjhs00189@gmail.com<br>
 💞️ If you're looking for more about me, just take a look at my [blog](https://medium.com/@aaron.eth). I currently start a blog, writting about code learning<br>
 
 ## Technologies which I use:
