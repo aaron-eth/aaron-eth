@@ -1,4 +1,5 @@
 # Hi 👋 !
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaron-eth&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 ## I am Aaron Chang
 👀 I’m interested in reading diving and exploring web3
 📫 You can reach me by mailing to ysjhs00189@gmail.com
@@ -15,7 +16,6 @@
 ### Web3
 - Solidity
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaron-eth&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
 **aaron-eth/aaron-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
