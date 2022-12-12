@@ -6,6 +6,8 @@
 💞️ If you're looking for more about me, just take a look at my [blog](https://medium.com/@aaron.eth). I currently start a blog, writting about code learning<br>
 
 ## Technologies which I use:
+### Web3
+- Solidity
 ### Frontend Technologies
 - HTML5、CSS3、JavaScript
 - Bootstrap5
@@ -13,8 +15,7 @@
 - Vue.js
 ### Backend Technologies
 - Node.js
-### Web3
-- Solidity
+
 
 <!--
 **aaron-eth/aaron-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
