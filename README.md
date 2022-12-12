@@ -2,7 +2,9 @@
 ## I am Aaron Chang
 👀 I’m interested in reading diving and exploring web3
 📫 You can reach me by mailing to ysjhs00189@gmail.com
-💞️ If you're looking for more about me, just take a look at my [blog](https://medium.com/@aaron.eth). I currently start a blog, writting about code learning
+💞️ If you're looking for more about me, just take a look at my [blog](https://medium.com/@aaron.eth). I currently start a blog, writting about code learning<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaron-eth&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ## Technologies which I use:
 ### Frontend Technologies
 - HTML5、CSS3、JavaScript
