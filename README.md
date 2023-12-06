@@ -1,5 +1,4 @@
 # Hi 👋 !
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-eth&show_icons=true&theme=radical)
 ## I am Aaron Chang
 👀 I’m interested in reading diving and exploring web3<br>
 📫 You can reach me by mailing to ysjhs00189@gmail.com<br>
